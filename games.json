@@ -3,8 +3,14 @@
     {
       "title": "Natural Disaster Survival",
       "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/Natural%20disasters.rbxl",
-      "description": "Survive a different disaster on each randomly selected map.",
+      "description": "Surive and run away from incoming disasters!",
       "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/ND.png"
+    },
+    {
+      "title": "Tabula Rasa",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/TabulaRasa.rbxl",
+      "description": "Its just a green baseplate and nothing more from 2008.",
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/BP.png"
     }
   ]
 }
