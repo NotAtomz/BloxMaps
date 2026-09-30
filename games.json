@@ -1,16 +1,10 @@
 {
   "games": [
     {
-      "title": "Crossroads",
-      "file": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/maps/Crossroads.rbxl",
-      "description": "A classic brick-battle map.",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/images/Crossroads.png"
-    },
-    {
       "title": "Natural Disaster Survival",
-      "file": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/maps/NaturalDisasters.rbxl",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/Natural%20disasters.rbxl",
       "description": "Survive a different disaster on each randomly selected map.",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/images/NaturalDisasters.png"
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/ND.png"
     }
   ]
 }
