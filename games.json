@@ -11,6 +11,12 @@
       "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/TabulaRasa.rbxl",
       "description": "Its just a green baseplate and nothing more from 2008.",
       "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/BP.png"
+    },
+    {
+      "title": "Reach Beyond The Wall",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/my%20wall%20game.rbxl",
+      "description": "Try to escape the wall and note the yellow wall is dangerous.",
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/wallgm.png"
     }
   ]
 }
