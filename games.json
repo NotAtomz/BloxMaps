@@ -27,6 +27,13 @@
       "description": "In The Normal Elevator, players ride an ordinary-seeming elevator that stops at a series of random, unpredictable, funny, strange, or scary floors featuring minigames and pop-culture references.",
       "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/TNE.png",
       "gameid": "4"
+    },
+    {
+      "title": "Sword Fight in the Dark",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/Sword%20Fight%20in%20the%20Dark.rbxl",
+      "description": "Its Sword fight on the heights but instead in the dark!",
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/SFOTHD.png",
+      "gameid": "4"
     }
   ]
 }
