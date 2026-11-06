@@ -20,6 +20,13 @@
       "description": "Try to escape the wall and note the yellow wall is dangerous.",
       "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/wallgm.png",
       "gameid": "3"
+    },
+    {
+      "title": "The Normal Elevator",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/The%20Normal%20Elevator.rbxl",
+      "description": "In The Normal Elevator, players ride an ordinary-seeming elevator that stops at a series of random, unpredictable, funny, strange, or scary floors featuring minigames and pop-culture references.",
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/TNE.png",
+      "gameid": "4"
     }
   ]
 }
