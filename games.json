@@ -4,19 +4,22 @@
       "title": "Natural Disaster Survival",
       "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/Natural%20disasters.rbxl",
       "description": "Surive and run away from incoming disasters!",
-      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/ND.png"
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/ND.png",
+      "gameid": "1"
     },
     {
       "title": "Tabula Rasa",
       "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/TabulaRasa.rbxl",
       "description": "Its just a green baseplate and nothing more from 2008.",
-      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/BP.png"
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/BP.png",
+      "gameid": "2"
     },
     {
       "title": "Reach Beyond The Wall",
       "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/my%20wall%20game.rbxl",
       "description": "Try to escape the wall and note the yellow wall is dangerous.",
-      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/wallgm.png"
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/wallgm.png",
+      "gameid": "3"
     }
   ]
 }
