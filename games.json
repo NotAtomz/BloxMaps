@@ -34,6 +34,13 @@
       "description": "Its Sword fight on the heights but instead in the dark!",
       "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/SFOTHD.png",
       "gameid": "5"
+    },
+    {
+      "title": "Zipi's Minesweeper",
+      "file": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Maps/Zipi's%20Minesweeper.rbxl",
+      "description": "Its my minesweeper i made on roblox that i managed to get working on here cause i love minesweeper.",
+      "image": "https://raw.githubusercontent.com/NotAtomz/BloxMaps/main/Images/noFilter.png",
+      "gameid": "6"
     }
   ]
 }
